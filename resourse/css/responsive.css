@@ -1,0 +1,103 @@
+@media only screen and (max-width:1024){
+    .row{
+        margin: 0 15px;  
+    }
+    .hero-text-box{
+        width: 100%;
+    }
+    html{
+        font-size: 57.5%;
+    }
+    
+
+}
+@media only screen and (max-width:980px){
+    .btn-submit{
+        margin-left:auto;
+        
+    }
+    .job .btn {
+        margin-left:auto ;
+    }
+}
+@media only screen and (max-width:768px){
+    .btn-submit{
+        margin-left:auto;
+        
+    }
+    .job .btn {
+        margin-left:auto ;
+    }
+}
+
+@media only screen and (max-width:480px){
+    .hero-text-box h3{
+        font-size: 1.5rem;
+    }
+    .hero-text-box h1{
+        font-size: 2.5rem;
+        letter-spacing: .5rem;
+    }
+    .hero-text-box small{
+        font-size:1.1rem;
+    }
+    .hero-text-box .btn-hero{
+        padding: .8rem .8rem;
+        font-size: 1.1rem;
+        width: 15rem;
+        
+       margin:4.5rem auto;
+       
+    }
+
+    
+    .about-section .box h2{
+        font-size:2.5rem ; 
+    }
+    .about-section .box h3{
+        font-size: 2rem;
+    }
+    .about-section .box span{
+        color: #e65f78;
+    }
+    .about-section .box .p1 {
+        
+        font-size: 1.3rem;
+    }
+    .about-section .box .p2{
+       
+        font-size: 1.3rem;
+    }
+    .about-section .box .p3{
+        font-size:1.3rem ;
+    }
+
+    .job h2{
+        font-size: 2.7rem;
+    }
+    .job .btn {
+        
+        margin:auto;
+        width: 15rem;
+        padding: .8rem .8rem;
+        font-size: 1.1rem;
+        margin-bottom: 8rem ;
+    }
+    .portfolio-filtter button{
+        font-size: 1rem;
+        padding: .8rem 1.8rem  ; 
+       
+    }
+    .btn-submit{
+        margin:auto;
+        width: 15rem;
+        padding: .8rem .8rem;
+        font-size: 1.1rem;
+        margin-bottom: 8rem;
+    
+    }
+
+
+
+
+}
